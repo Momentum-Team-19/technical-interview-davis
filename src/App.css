@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+.text-heading {
+  font-family: 'Roboto Slab', serif;
+  font-size: 5rem;
+  line-height: 5rem;
+}
