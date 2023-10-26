@@ -9,6 +9,7 @@ const Kitchen = () => {
 
   return (
     <div className="room grid-item">
+      <h2>Kitchen</h2>
       <button>Kitchen</button>
     </div>
   )
@@ -23,6 +24,7 @@ const Bathroom = () => {
 
   return (
     <div className="room grid-item">
+      <h2>Bathroom</h2>
       <button>Bathroom</button>
     </div>
   )
@@ -37,6 +39,7 @@ const LivingRoom = () => {
 
   return (
     <div className="room grid-item">
+      <h2>Living Room</h2>
       <button>Living Room</button>
     </div>
   )
@@ -51,6 +54,7 @@ const Bedroom = () => {
 
   return (
     <div className="room grid-item">
+      <h2>Bedroom</h2>
       <button>Bedroom</button>
     </div>
   )
